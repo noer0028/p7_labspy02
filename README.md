@@ -1,7 +1,7 @@
 # Pertemuan 7 - labspy02
 Repository ini dibuat untuk memenuhi tugas Pertemuan 7 Bahasa Pemrograman (Modul Praktikum 2) - Teknik Informatika<br><br>
-Nama : Febro Herdyanto<br>
-NIM : 312010043<br>
+Nama : NUR ROHMAT A.S<br>
+NIM : 312010216<br>
 Kelas : TI.20.B.1<br>
 <hr>
 
@@ -143,6 +143,6 @@ Untul lebih jelasnya bisa membaca *Flowchart* yang telah saya buat (link diatas)
 Demikian Tugas Pertemuan 7 - Praktikum 2 telah selesai. Terima kasih.<br>
 
 
-NAMA : FEBRO HERDYANTO =<br>
-NIM : 312010043<br>
+NAMA :  Nur Rohmat =<br>
+NIM : 312010215<br>
 KELAS : TI.20.B.1<br>
